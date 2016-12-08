@@ -1,6 +1,9 @@
+    body{
+      background-color: Navy;
+    }
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://www.newyork-wallpapers.com/user-content/uploads/wall/o/4/Manhattan-Skyline-At-Night-Wallpaper.jpg");
       background-size: cover;
       color: white;
     }
@@ -14,7 +17,7 @@
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
       border-radius: 20px;
-    }
+    width:200px;}
     ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
